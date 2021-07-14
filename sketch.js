@@ -19,10 +19,10 @@ function preload()
 {
 
   track = loadImage("track.jpg")
-  p1_Img = loadAnimation("Capture1.png","Capture3.png","capture4.png")
-  p2_Img = loadAnimation("Capture1.png","Capture3.png","capture4.png")
-  p3_Img = loadAnimation("Capture1.png","Capture3.png","capture4.png")
-  p4_Img = loadAnimation("Capture1.png","Capture3.png","capture4.png")
+  p1_Img = loadAnimation("Capture1.png","Capture3.png","Capture4.png")
+  p2_Img = loadAnimation("Capture1.png","Capture3.png","Capture4.png")
+  p3_Img = loadAnimation("Capture1.png","Capture3.png","Capture4.png")
+  p4_Img = loadAnimation("Capture1.png","Capture3.png","Capture4.png")
 }
 
 function setup() {
