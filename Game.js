@@ -30,13 +30,13 @@ class Game {
     }
 
     p1 = createSprite(100,200);
-    p1.addAnimation("p1",p1_img);
+    p1.addAnimation("p1",p1_Img);
     p2 = createSprite(300,200);
-    p2.addAnimation("p2",p2_img);
+    p2.addAnimation("p2",p2_Img);
     p3 = createSprite(500,200);
-    p3.addAnimation("p3",p3_img);
+    p3.addAnimation("p3",p3_Img);
     p4 = createSprite(700,200);
-    p4.addAnimation("p4",p4_img);
+    p4.addAnimation("p4",p4_Img);
     players = [p1, p2, p3, p4];
   }
 
